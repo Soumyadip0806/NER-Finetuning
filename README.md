@@ -12,7 +12,7 @@ This repository contains scripts for:
 📦 YourRepoName
 ├── 📄 NER_Finetune_Pipeline.py             # NER fine-tuning script
 ├── 📄 NER_output.py                        # NER prediction script
-├── 📄 Data_conversion_and_preprocess.ipynb # XML to CSV conversion notebook for Mizo & Khasi data
+├── 📄 Data_conversion_and_preprocess.ipynb # XML to CSV & conll conversion notebook for Mizo & Khasi data
 ├── 📂 logs/                                # Training logs and reports
 ├── 📄 requirements.txt                     # Dependencies
 └── 📄 README.md                            # Project Documentation
