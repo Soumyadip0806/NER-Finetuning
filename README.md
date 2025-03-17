@@ -31,10 +31,10 @@ python finetune_ner.py
 ```
 
 ### 📌 **Key Features**
-✅ Supports multiple transformer-based models
-✅ Implements class weighting for imbalanced datasets
-✅ Generates classification reports automatically 📊
-✅ Efficient GPU memory management 🖥️
+- ✅ Supports multiple transformer-based models
+- ✅ Implements class weighting for imbalanced datasets
+- ✅ Generates classification reports automatically 📊
+- ✅ Efficient GPU memory management 🖥️
 
 ## 🔍 NER Prediction
 The `predict_ner.py` script loads a fine-tuned NER model and predicts entity labels for sentences in a given text file.
@@ -50,9 +50,9 @@ python predict_ner.py
 3️⃣ The output will be saved in a structured CoNLL format.
 
 ### 📌 **Key Features**
-✅ Uses a fine-tuned transformer model for inference
-✅ Splits long sentences automatically to fit model constraints
-✅ Outputs results in a CoNLL-style format for easy analysis
+- ✅ Uses a fine-tuned transformer model for inference
+- ✅ Splits long sentences automatically to fit model constraints
+- ✅ Outputs results in a CoNLL-style format for easy analysis
 
 ## 📂 XML to CSV Conversion
 This Jupyter Notebook extracts data from **raw XML files** and converts them into **CSV format** for Mizo and Khasi languages.
@@ -66,9 +66,9 @@ jupyter notebook xml_to_csv.ipynb
 2️⃣ Run the cells step by step to process the XML data.
 
 ### 📌 **Key Features**
-✅ Parses XML files efficiently 📄
-✅ Supports language-specific preprocessing 🌐
-✅ Outputs structured CSV data 📊
+- ✅ Parses XML files efficiently 📄
+- ✅ Supports language-specific preprocessing 🌐
+- ✅ Outputs structured CSV data 📊
 
 ## 📊 Dataset
 The dataset used for training the NER model is available here: [Dataset Link](#) (Replace with actual link)
